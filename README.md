@@ -5,4 +5,4 @@ Putting it here, and in a package, so you can NOT have to include it in your pro
 
 ## install
 
-sfdx shane:github:package:install -g mshanemc -r community-boilerplate
+`sfdx shane:github:package:install -g mshanemc -r community-boilerplate`
